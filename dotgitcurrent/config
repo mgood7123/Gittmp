@@ -1,0 +1,10 @@
+[core]
+	bare = false
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/mgood7123/Git2
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	push = refs/heads/master:refs/heads/master
+	push = refs/heads/master:refs/heads/master
